@@ -10,7 +10,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
-Building internal tools and automations — Tableau dashboards, AI-powered workflows, and desktop apps.
+Building internal tools and automations with internal tools and automations
 
 ### Projects
 
