@@ -14,6 +14,7 @@ Building internal tools and automations with internal tools and automations
 
 ### Projects
 
+- **[Team Dashboard](https://github.com/dchangelon/team-dashboard)** - Track data team project workload with checklist progress, member capacity, and overdue alerts via Trello
 - **[Tableau Report Tracker](https://github.com/dchangelon/tableau-report-tracker)** - Browse Tableau workbooks and submit change requests through Trello integration
 - **[Tableau Refresh Manager](https://github.com/dchangelon/tableau-refresh-manager)** - Analyze and rebalance Tableau Cloud extract refresh schedules
 - **[AI Usage Monitor](https://github.com/dchangelon/ai-usage-monitor)** - Desktop app for tracking AI API usage and costs across providers
