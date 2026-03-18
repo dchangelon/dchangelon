@@ -17,7 +17,6 @@ I build internal tools and automations that help my team work faster — fewer c
 | Project | Status | What it does |
 |---------|--------|-------------|
 | **[Tableau Report Tracker](https://github.com/dchangelon/tableau-report-tracker)** | ![Complete](https://img.shields.io/badge/-Complete-0969da?style=flat-square) | Browse Tableau workbooks and submit change requests that flow into Trello. Saves our team from scattered email/Slack requests. |
-| **[Tableau Refresh Manager](https://github.com/dchangelon/tableau-refresh-manager)** | ![Complete](https://img.shields.io/badge/-Complete-0969da?style=flat-square) | Visualize and rebalance Tableau Cloud extract refresh schedules. We had too many jobs hitting the same hour — this shows the load and lets you fix it. |
 | **[Team Dashboard](https://github.com/dchangelon/team-dashboard)** | ![Complete](https://img.shields.io/badge/-Complete-0969da?style=flat-square) | Track data team workload — checklist progress, member capacity, and overdue alerts pulled from Trello. |
 | **[AI Usage Monitor](https://github.com/dchangelon/ai-usage-monitor)** | ![WIP](https://img.shields.io/badge/-WIP-yellow?style=flat-square) | Desktop app that sits in the corner of your screen showing AI API usage and costs across Claude and Cursor. |
 | **[Agent Teams Monitor](https://github.com/dchangelon/agent-teams-monitor)** | ![WIP](https://img.shields.io/badge/-WIP-yellow?style=flat-square) | Real-time dashboard for watching Claude Code agent teams work — task progress, message feed, and the ability to send messages to active agents. |
